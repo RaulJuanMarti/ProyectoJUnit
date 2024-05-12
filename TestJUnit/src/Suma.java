@@ -1,7 +1,7 @@
 public class Suma {
-    private int x;
+    private int n1;
     private int y;
-    public Suma(int x, int y){
+    public Suma(int n1, int y){
         this.x = x;
         this.y = y;
     }
